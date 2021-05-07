@@ -1,0 +1,5 @@
+DAO =  tem por exemplo os comandos SQL de um banco de banco de dados.
+
+BO = logica de negocio ( onde o DAO, chama esse metodo que está no BO ).
+
+DTO = classe onde tem os set e gets
